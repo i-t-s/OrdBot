@@ -8,7 +8,9 @@ Configuration Files Based on:
         https://github.com/MarlinFirmware/Marlin    
 ###  Hardware: 
    
-- OrdBot Haydron <link TBC> 
+- OrdBot Haydron 
+
+  http://www.buildlog.net/wiki/doku.php?id=ord_bot:the_ord_bot
 - Electronics 
   - ATmega2560-16AU-R3
   - RAMPS 1.5 
