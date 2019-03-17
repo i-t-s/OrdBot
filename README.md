@@ -10,10 +10,12 @@ Configuration Files Based on:
    
 - OrdBot Haydron <link TBC> 
 - Electronics 
+  - ATmega2560-16AU-R3
   - RAMPS 1.5 <link TBC>
+  - A4988
 - Features: 
   - LCD <link TBC>
-  - MOSFET 
+  - MOSFET *Power Module High Current 210A MOSFET*
     - BED 
     - HotEnd <Link TBC>
 
