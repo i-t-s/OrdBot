@@ -4,14 +4,14 @@
 Configuration Files Based on:
 
 ###  Sofware: 
-    **Marlin 1.1.*9* ** 
-        <link TBC>    
+    Marlin 1.1.9
+        https://github.com/MarlinFirmware/Marlin    
 ###  Hardware: 
    
 - OrdBot Haydron <link TBC> 
 - Electronics 
   - ATmega2560-16AU-R3
-  - RAMPS 1.5 <link TBC>
+  - RAMPS 1.5 
   - A4988
 - Features: 
   - LCD <link TBC>
