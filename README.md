@@ -4,9 +4,8 @@
 <p> Configuration Files Based on: </p>
 <ul>
 <li>  Sofware: </li>
-    Marlin 1.1.9 <link TBC>
-
-
+    <p> Marlin 1.1.9  </p>
+    <p>    <link TBC>    </p>
 <li>  Hardware: </li>
    <ul>
    <li> OrdBot Haydron <link TBC> </li>
