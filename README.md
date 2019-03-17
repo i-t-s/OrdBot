@@ -3,7 +3,7 @@
 
 Configuration Files Based on:
 
-###  Sofware: 
+###  Software: 
     Marlin 1.1.9
         https://github.com/MarlinFirmware/Marlin    
 ###  Hardware: 
